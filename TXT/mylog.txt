@@ -2,4 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L00 General, etc.
-ZCZC W00 10 L03 Initialize week-0 assignment
+ZCZC W00 15 L03 RE-initialize week-0 assignment
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 2 L08 Asking for OS' discord channel to a friend 
+ZCZC W00 30 L82 Reading Blood On The Tracks (manga)
