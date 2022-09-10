@@ -11,3 +11,11 @@ ZCZC W00 2   L08 Asking for OS' discord channel to a friend
 ZCZC W00 20  L10 Assignment #00
 ZCZC W00 15  L41 TXT/mylog.txt related. 
 ZCZC W00 30  L82 Reading Blood On The Tracks (manga)
+ZCZC W01 10  L00 General, etc.
+ZCZC W01 10  L01 SCELE/Discord related
+ZCZC W01 200 L02 ZOOM meetings related
+ZCZC W01 10  L03 GitHub and git related, including commit, push, pull
+ZCZC W01 10  L11 Assignment #01 (related to L61 and L62)
+ZCZC W01 5   L41 TXT/mylog.txt related
+ZCZC W01 60  L61 Install Virtual Box
+ZCZC W01 30  L62 Install Virtual Debian Guest
