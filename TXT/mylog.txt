@@ -18,7 +18,7 @@ ZCZC W01 15 L03 GitHub and git related, including commit, push, pull
 ZCZC W01 30 L05 Quiz related including studying
 ZCZC W01 20 L08 Asking and helping friend related to assignment #01
 ZCZC W01 10 L11 Assignment #01 (related to L61 and L62)
-ZCZC W01 10 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 11 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W01 25 L32 YouTube: watching OS related topics, etc (see L05)
 ZCZC W01 10 L40 TXT/ related in general.
 ZCZC W01 5 L41 TXT/mylog.txt related
