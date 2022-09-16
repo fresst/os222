@@ -1,6 +1,10 @@
 ---
 permalink: LINKS/
 ---
+[HOME]({{ site.baseurl }}/) ---
+[**LINKS**]({{ site.baseurl }}/LINKS/) ---
+[LOG]({{ site.baseurl }}/TXT/mylog.txt) ---
+[GITHUB](https://github.com/fresst/os222)
 
 # Links (that might be useful)
 1. [What Operating System Is](https://www.guru99.com/operating-system-tutorial.html)<br>
