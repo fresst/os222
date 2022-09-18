@@ -23,6 +23,6 @@ This article from IBM provides a concise yet thorough explanation about cybersec
 IDX showcases several dangerous (yet familiar in our daily lives..) threats on digital privacy.
 Although not very detailed, they also wrote how (certain state) laws are protecting digital privacy, which I think is very fascinating.
 
-6. [Internet privacy laws revealed - how your personal information is protected online](https://legal.thomsonreuters.com/en/insights/articles/how-your-personal-information-is-protected-online#:~:text=Electronic%20Communications%20Privacy%20Act%20(ECPA,access%2C%20use%2C%20and%20disclosure.)<br>
+6. [Internet privacy laws revealed](https://legal.thomsonreuters.com/en/insights/articles/how-your-personal-information-is-protected-online)<br>
 I searched more on how federal and state laws (very US-centric, sadly) affect and protect online privacy. A good read.
 Also one point from this article that stuck to me was how our miscellaneous digital footprint gave so much information.
