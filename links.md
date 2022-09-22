@@ -26,3 +26,11 @@ Although not very detailed, they also wrote how (certain state) laws are protect
 6. [Internet privacy laws revealed](https://legal.thomsonreuters.com/en/insights/articles/how-your-personal-information-is-protected-online)<br>
 I searched more on how federal and state laws (very US-centric, sadly) affect and protect online privacy. A good read.
 Also one point from this article that stuck to me was how our miscellaneous digital footprint gave so much information.
+
+7. [File System Interface in Operating System](https://www.w3schools.in/operating-system/file-system-interface)<br>
+I got tired reading Silberschatz, and then I came across this article. 
+W3schools gave a very straight forward and easy-to-follow introduction to File System Interface. They also cover other OS topics.
+
+8. [Allocation Methods](https://www.javatpoint.com/os-linked-list-allocation)<br>
+I had a hard time understanding file allocation, especially linked list. 
+javaTpoint gave a complete explanation on all allocation methods in several short articles.
