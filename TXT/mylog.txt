@@ -38,11 +38,12 @@ ZCZC W02 5 L64 Helping a friend (OS related problem)
 ZCZC W03 100 L00 General and face-to-face lecture
 ZCZC W03 10 L01 SCELE/Discord related
 ZCZC W03 100 L02 ZOOM meetings related
-ZCZC W03 20 L05 Quiz related including studying
+ZCZC W03 60 L05 Quiz related including studying
 ZCZC W03 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc. See also L01.
 ZCZC W03 60 L13 Assignment #03
+ZCZC W03 5 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W03 30 L40 TXT/ related in general.
-ZCZC W03 15 L41 TXT/mylog.txt related.
+ZCZC W03 22 L41 TXT/mylog.txt related.
 ZCZC W03 10 L43 TXT/myrank.tex related, including peer review.
 ZCZC W03 3 L45 TXT/SHA256SUM related
 ZCZC W03 5 L61 Install/Reinstall/Restore/Backup Virtual Box
