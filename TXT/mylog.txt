@@ -39,7 +39,7 @@ ZCZC W03 100 L00 General and face-to-face lecture
 ZCZC W03 10 L01 SCELE/Discord related
 ZCZC W03 100 L02 ZOOM meetings related
 ZCZC W03 60 L05 Quiz related including studying
-ZCZC W03 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W03 10 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc. See also L01.
 ZCZC W03 60 L13 Assignment #03
 ZCZC W03 5 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W03 30 L40 TXT/ related in general.
@@ -52,3 +52,23 @@ ZCZC W03 30 L64 Helping a friend (OS related problem). See also L08.
 ZCZC W03 800 L70 Studying for other courses.
 ZCZC W03 180 L81 Listening music while doing assignments
 ZCZC W03 60 L83 Pets: feeding, playing, etc
+ZCZC W04 120 L00 General and face-to-face lecture
+ZCZC W04 25 L01 SCELE/Discord related
+ZCZC W04 110 L02 ZOOM meetings related
+ZCZC W04 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 60 L05 Quiz related including studying
+ZCZC W04 45 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W04 220 L09 Assignment in General
+ZCZC W04 45 L14 Assignment #04
+ZCZC W04 30 L22 Linux CLI including tar, etc.
+ZCZC W04 30 L23 Bash, Regex, SED, AWK.
+ZCZC W04 20 L24 Scripting in general.
+ZCZC W04 10 L25 C-language including Make.
+ZCZC W04 10 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W04 30 L40 TXT/ related in general.
+ZCZC W04 15 L41 TXT/mylog.txt related.
+ZCZC W04 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 10 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W04 10 L45 TXT/SHA256SUM related
+ZCZC W04 10 L64 Helping a friend (OS related problem) 

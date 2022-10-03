@@ -34,3 +34,6 @@ W3schools gave a very straight forward and easy-to-follow introduction to File S
 8. [Allocation Methods](https://www.javatpoint.com/os-linked-list-allocation)<br>
 I had a hard time understanding file allocation, especially linked list. 
 javaTpoint gave a complete explanation on all allocation methods in several short articles.
+
+9. [Operating System - Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
+A really great intro to OS' "main memory" chapter.
