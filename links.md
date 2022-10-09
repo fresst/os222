@@ -37,3 +37,6 @@ javaTpoint gave a complete explanation on all allocation methods in several shor
 
 9. [Operating System - Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
 A really great intro to OS' "main memory" chapter.
+
+10. [Page Fault Handling in OS](https://www.javatpoint.com/page-fault-handling-in-operating-system)<br>
+This article is pretty easy to read.. AND iT HAS VISUALIZATION!!! yay for drawings :happy:
