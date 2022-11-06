@@ -40,3 +40,9 @@ A really great intro to OS' "main memory" chapter.
 
 10. [Page Fault Handling in OS](https://www.javatpoint.com/page-fault-handling-in-operating-system)<br>
 This article is pretty easy to read.. AND iT HAS VISUALIZATION!!! yay for drawings :happy:
+
+11. [Fork System Call](https://www.geeksforgeeks.org/fork-system-call/)<br>
+This article explains fork system calls with visualization.
+
+12. [The fork() System Call](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)
+This article has several programs similar to the given demo..
