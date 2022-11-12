@@ -45,4 +45,10 @@ This article is pretty easy to read.. AND iT HAS VISUALIZATION!!! yay for drawin
 This article explains fork system calls with visualization.
 
 12. [The fork() System Call](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)
-This article has several programs similar to the given demo..
+This article has several programs similar to the given demo.
+
+13. [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)
+A good read. also a nice website.
+
+14. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+Of course putting a gfg link every week is mandatory lmao. Overall, same content about synchronization.
