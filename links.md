@@ -61,3 +61,6 @@ Of course not! That's why i'm putting the link for you to read this <br>
 
 16. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
 Oh, another gfg link! Dont worry it says `Difficulty Level : Easy`.
+
+17. [Main Memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/8_MainMemory.html)<br>
+A good read about main memory in OS.
