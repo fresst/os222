@@ -195,3 +195,32 @@ ZCZC W09 20 L83 Pets: feeding, playing, etc
 ZCZC W09 180 L84 Relax, Rest, Nap, and Sleep
 ZCZC W09 20 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
 ZCZC W09 30 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W10 120 L00 General, etc.
+ZCZC W10 30 L01 SCELE/Discord related
+ZCZC W10 110 L02 ZOOM meetings related
+ZCZC W10 60 L03 GitHub and git related, including commit, push, pull
+ZCZC W10 30 L04 GitHub Pages related
+ZCZC W10 40 L05 Quiz related including studying
+ZCZC W10 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W10 40 L07 Demo related
+ZCZC W10 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W10 180 L09 Assignment in General
+ZCZC W10 300 L20 Assignment #10
+ZCZC W10 45 L21 Trying something
+ZCZC W10 20 L22 Linux CLI including tar, etc.
+ZCZC W10 10 L23 Bash, Regex, SED, AWK.
+ZCZC W10 20 L24 Scripting in general.
+ZCZC W10 5 L25 C-language including Make.
+ZCZC W10 13 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W10 180 L32 YouTube: watching OS related topics, etc.
+ZCZC W10 30 L40 TXT/ related in general.
+ZCZC W10 15 L41 TXT/mylog.txt related.
+ZCZC W10 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W10 13 L45 TXT/SHA256SUM related
+ZCZC W10 100 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W10 30 L81 Listening: Radio, Music, etc.
+ZCZC W10 60 L82 Reading Book (paper or online)
+ZCZC W10 20 L83 Pets: feeding, playing, etc
+ZCZC W10 180 L84 Relax, Rest, Nap, and Sleep
+ZCZC W10 20 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W10 30 L87 Breakfast/Lunch/Dinner/Snake
